@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         PostgreSQLTestContainer testContainer = new PostgreSQLTestContainer();
         testContainer.start();
+        System.out.println("stop");
     }
 }

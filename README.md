@@ -2,6 +2,8 @@
 
 **Результаты выполнения задания №1 Спринт 3:**
 ![image](https://github.com/EvaKatastrofa/AutotestsStudy/assets/151516292/51b1ead7-c24d-4a6d-a163-ba10b0e5ce93)
+![image](https://github.com/EvaKatastrofa/AutotestsStudy/assets/151516292/d8d1068b-b03b-4791-951d-908570b724c5)
+
 
 
 **Результаты выполнения задания Спринт 2:**

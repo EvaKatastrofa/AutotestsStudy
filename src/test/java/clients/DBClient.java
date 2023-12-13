@@ -13,9 +13,6 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DBClient {
-//    final String dbName = "test_db";
-//    final String user = "test_user";
-//    final String password = "qwerty";
 
     private static String url = null;
     @Getter

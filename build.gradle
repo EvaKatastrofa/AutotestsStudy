@@ -20,6 +20,12 @@ dependencies {
 
     implementation 'org.apache.logging.log4j:log4j-api:2.19.0'
     implementation 'org.apache.logging.log4j:log4j-core:2.19.0'
+
+    implementation 'org.jooq:jooq-codegen:3.14.6'
+
+    testImplementation 'org.postgresql:postgresql:42.2.27'
+    testImplementation 'org.projectlombok:lombok:1.18.26'
+    testImplementation 'org.projectlombok:lombok:1.18.26'
 }
 
 test {
